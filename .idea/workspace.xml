@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3994aa05-a49a-47ba-882f-f1f1bb1181cd" name="Default Changelist" comment="update java program of Array Stroage">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Collection/Assessment/LeapYear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assessment/Array_Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,30 +15,31 @@
     <session id="1908528893">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="3" />
-          <entry key="java" value="1529" />
+          <entry key="java" value="1531" />
           <entry key="txt" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1529" />
+          <entry key="JAVA" value="1531" />
           <entry key="PLAIN_TEXT" value="74" />
           <entry key="VTL" value="3" />
         </counts>
@@ -52,24 +51,33 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Assessment/LeapYear.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assessment/Array_Storage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Assessment/Array_Storage.java">
+        <entry file="file://$PROJECT_DIR$/src/Collection/bubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="654">
-              <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,6 +99,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Assessment/LeapYear.java" />
         <option value="$PROJECT_DIR$/src/Assessment/Array_Storage.java" />
+        <option value="$PROJECT_DIR$/src/Collection/bubbleSort.java" />
       </list>
     </option>
   </component>
@@ -101,7 +110,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="194" />
+    <option name="x" value="252" />
     <option name="y" value="23" />
     <option name="width" value="1469" />
     <option name="height" value="978" />
@@ -147,15 +156,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538994649003" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538996717098" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -172,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array_Storage">
+  <component name="RunManager" selected="Application.bubbleSort">
     <configuration name="Array_Storage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assessment.Array_Storage" />
       <module name="Java_Collection" />
@@ -199,12 +209,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.bubbleSort" />
+      <module name="Java_Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.Array_Storage" />
+      <item itemvalue="Application.bubbleSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bubbleSort" />
         <item itemvalue="Application.Array_Storage" />
         <item itemvalue="Application.LeapYear" />
       </list>
@@ -221,6 +246,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538992058294</updated>
       <workItem from="1538992060044" duration="2584000" />
+      <workItem from="1538996532330" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="update java program of leap year">
       <created>1538993011666</created>
@@ -233,7 +259,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2584000" />
+    <option name="totallyTimeSpent" value="2678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -245,37 +271,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="194" y="23" width="1469" height="978" extended-state="0" />
+    <frame x="436" y="23" width="1469" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.13524878" />
-      <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" visible="true" weight="0.13524878" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4996496" weight="0.3295711" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3295711" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49894884" weight="0.3295711" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5010511" side_tool="true" weight="0.3295711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49774265" visible="true" weight="0.13665031" />
+      <window_info id="Structure" order="1" sideWeight="0.50225735" side_tool="true" visible="true" weight="0.13665031" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295711" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" weight="0.3295711" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49894884" weight="0.3295711" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010511" side_tool="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295711" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4996496" weight="0.3295711" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,17 +319,24 @@
     <entry file="file://$PROJECT_DIR$/src/Assessment/LeapYear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assessment/Array_Storage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+        <state relative-caret-position="343">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/bubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
