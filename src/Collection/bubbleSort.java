@@ -7,7 +7,7 @@ package Collection;
  */
 public class bubbleSort {
     public static void main(String[] args) {
-        int[] data = new int[]{2, 1, 9, 0, 5, 4, 7, 6, 8};
+        int[] data = new int[]{2, 1, 9, 0, 5, 4, 7, 6, 8}; // 1.声明数组变量，并create一个int数组并赋值
         System.out.print("Original array: ");
         output(data);
         System.out.println();
