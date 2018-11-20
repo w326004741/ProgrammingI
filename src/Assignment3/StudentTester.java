@@ -2,6 +2,7 @@ package Assignment3;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -20,6 +21,7 @@ public class StudentTester {
         // Create an array to hold a collection of Student object.
         // 创建ArrayList对象 Student是元素类型， student是list
         List<Student> students = new ArrayList<Student>();
+
         // use while(true) loop to keep always iterate, and have to break out of it using 'break'.
         while (true) {
             menu();  // call the menu() method.

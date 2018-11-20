@@ -10,9 +10,11 @@ public class Student {
     private long IDnumber; // declare private long type IDnumber instance variable
 
     public Student() {
-        // no-argument constructor
+        // no-argument constructor. Default constructor
+        // 设置默认构造函数的输出
     }
 
+    // Overloaded constructor a new Student with passed name, IDnumber
     public Student(String name, long IDnumber) { // 2 arguments constructor
         this.name = name;
         this.IDnumber = IDnumber;

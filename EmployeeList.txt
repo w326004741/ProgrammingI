@@ -1,0 +1,4 @@
+Employee List: 
+SalesEmployee{firstName='Weichen', lastName='Wang', ppsNumber='S111', sales=100.0, commission=10.0, employeeNumber=1}.
+SalesEmployee{firstName='Tony', lastName='Stark', ppsNumber='S222', sales=200.0, commission=30.0, employeeNumber=2}.
+SalesEmployee{firstName='Iron', lastName='Man', ppsNumber='S333', sales=300.0, commission=30.0, employeeNumber=3}.
